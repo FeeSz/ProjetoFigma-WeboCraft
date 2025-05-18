@@ -1,10 +1,21 @@
-## 🎨 Defined Color Palette
+## 🇺🇸 Color Palette
 
-| Color Name           | Hex Code   | Main Usage                                         |
-|----------------------|------------|----------------------------------------------------|
-| Dark Blue            | `#0F172A`  | Main background color                              |
-| Medium Blue          | `#1D4ED8`  | Highlight color, buttons, active links             |
-| Light Blue           | `#3B82F6`  | Hover effects, interactive elements                |
-| White                | `#FFFFFF`  | Main text on dark backgrounds                      |
-| Light Gray           | `#E5E7EB`  | Borders, input fields, separators                  |
-| Medium Gray          | `#94A3B8`  | Subheadings, secondary text, and icons             |
+| Color          | Hexadecimal | Usage in Project               |
+|----------------|-------------|-------------------------------|
+| Dark Green     | #2C6E49     | Primary buttons, highlights   |
+| Light Green    | #74B49B     | Background elements, hover    |
+| Dark Gray      | #333333     | Main text                     |
+| Light Gray     | #CCCCCC     | General background, borders   |
+| White          | #FFFFFF     | Screen backgrounds and text   |
+
+---
+
+## 🇧🇷 Paleta de Cores
+
+| Cor            | Hexadecimal | Uso no Projeto                 |
+|----------------|-------------|-------------------------------|
+| Verde Escuro   | #2C6E49     | Botões principais, destaques  |
+| Verde Claro    | #74B49B     | Fundo de elementos, hover     |
+| Cinza Escuro   | #333333     | Texto principal               |
+| Cinza Claro    | #CCCCCC     | Fundo geral, bordas           |
+| Branco         | #FFFFFF     | Fundo de telas e textos       |
